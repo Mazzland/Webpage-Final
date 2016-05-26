@@ -1,0 +1,56 @@
+/****************************************
+
+Navigation Bar
+
+***************************************/
+#navcontainer ul {
+list-style-type: none;
+}
+#navcontainer li {
+display: inline; 
+}
+/************************************
+
+Applied to all Bodies
+
+************************************/
+html {
+background: url (https://stanfordfreedomproject.files.wordpress.com/2014/12/disney-castle.jpg) no-repeat center center fixed; 
+background-size: cover; 
+}
+a {
+color: white;
+}
+
+p {
+background: rgb(255,153,204); 
+border: 1px solid #ccc; 
+height: 500px; 
+width: 500px; 
+font-size: 20px; 
+padding: 10px 10px 10px 10px; 
+margin: 50px auto 50px; 
+box-shadow: -4px 4px 2px 0 rgba(0,0,0,0.3);
+}
+
+@font-face {
+	font-family: Waltograph; 
+	color: white; 
+}
+
+h1 {
+font-family: Waltograph; 
+color: white; 
+}
+
+h2 {
+font-family: Waltograph; 
+color: white; 
+} 
+
+body {
+font-family: Jenna Sue; 
+font-size: 18px; 
+color: white; 
+}
+
